@@ -24,9 +24,3 @@ Welcome to the Finance Tracker Dashboard! This full-stack application utilizes R
 
 - **Ant Design**: Ant Design components are used for building the UI, offering a sleek and modern design aesthetic while maintaining usability and accessibility.
 
-## Demo
-**Dashboard Page**
-![Screenshot (71)](https://github.com/aditi755/FinTracker/assets/107920147/6170f983-94e6-47f2-bad1-2e528068f03f)
-**Analytics Graph**
-![Screenshot (73)](https://github.com/aditi755/FinTracker/assets/107920147/12d1cade-4405-4607-887c-2fdf1837b374)
-![Screenshot (74)](https://github.com/aditi755/FinTracker/assets/107920147/6249d381-803c-4ec0-ae40-3d2f8e591037)
